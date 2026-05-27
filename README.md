@@ -7,3 +7,7 @@ An introductory course to topics in machine learning studied from a probability 
 ## References (not needed but useful for further studies):
 - Kevin Murphy, Machine Learning: A Probabilistic Perspective, 2012.
 - Jean Walrand, Probability in Electrical Engineering and Computer Science: An Application-Driven Course, 2014.
+
+## Tentative Course Outline:
+### 1. Review of Probability
+Probability space, random variables, probability distribution, limit theorems (3 lectures)
